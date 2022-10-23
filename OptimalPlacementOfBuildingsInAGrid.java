@@ -7,7 +7,7 @@ import java.util.Queue;
 // Any problem you faced while coding this :
 
 // Your code here along with comments explaining your approach
-//Optimal PLacement of Building in a Grid - https://leetcode.com/discuss/interview-question/221639/, https://leetcode.com/discuss/interview-question/933012/oa-sap-labs-on-campus
+//Optimal Placement of Buildings in a Grid - https://leetcode.com/discuss/interview-question/221639/, https://leetcode.com/discuss/interview-question/933012/oa-sap-labs-on-campus
 // Time Complexity : O(hw * hwCn) where h = height of grid, w = width of grid, n = number of buildings
 // Space Complexity : O(hw) where h = height of grid, w = width of grid
 public class Main {
